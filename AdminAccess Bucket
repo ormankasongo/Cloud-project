@@ -11,3 +11,5 @@
         }
     ]
 }
+ #List, Permissions management, Read, Write, Tagging
+#This policy provides full control over specific S3 bucket actions, like listing objects, uploading, and deleting objects while allowing bucket-level permissions management (e.g., bucket ACLs, policies).
